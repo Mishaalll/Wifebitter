@@ -1,1 +1,1 @@
-# Wifebitter
+# Print char in newline
